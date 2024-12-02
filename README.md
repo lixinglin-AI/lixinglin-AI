@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on **projects involving machine learning, healthcare analytics, and innovative data-driven solutions**.
 - 📫 How to reach me: Feel free to connect via email at `lixing.lin@yale.edu` or through my GitHub profile.
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I’m a big fun of golf and a huge AI enthusiast who loves bridging technology and sports!
+- ⚡ Hobby: I’m a big fun of golf⛳️ and a huge AI enthusiast who loves bridging technology and sports!
 
 
 <!---
