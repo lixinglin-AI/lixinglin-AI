@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lixinglin-AI
+# 👋 Hi, I’m Lixing(David) Lin
 - 👀 I’m interested in **Data Science, AI, and Biomedical Imaging**.
 - 💞️ I’m looking to collaborate on **projects involving machine learning, healthcare analytics, and innovative data-driven solutions**.
 - 📫 How to reach me: Feel free to connect via email at `lixing.lin@yale.edu` or through my GitHub profile.
